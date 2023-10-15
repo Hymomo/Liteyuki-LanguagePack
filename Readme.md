@@ -1,3 +1,3 @@
-You can put liteyuki packs on there :)
+You can put liteyuki language packs on there :)
 
 everyone can do!
