@@ -1,0 +1,41 @@
+#===============================================
+#Liteyuki - 轻雪翻译组翻译/Liteyuki TanslateTeam
+#耗费时间: 12min /Spent Time: 12min
+#工具: Visual Studio Code+Edge /Tools: Visual Studio Code+Edge
+#本次语言: deu_De /Language: deu_De
+#Liteyuki - SnowyFirefly Studio
+#===============================================
+
+#def-language
+lang.en_US.name=Englisch (Vereinigte Staaten)
+lang.en_GB.name=Englisch (UK)
+lang.ja_JP.name=Japanisch (Japan)
+lang.zh_CN.name=Chinesisch (Vereinfacht)
+lang.zh_TW.name=Chinesisch (Traditionell)
+#new-language - fr
+lang.fr_FR.name=Französisch (Frankreich)
+lang.fr_CA.name=Französisch (Kanada)
+#new-language - de
+lang.deu_De.name=Deutsch (Deutschland)
+lang.deu_Ast.name=Deutsch (Österreich)
+#new-language - ru/w
+lang.ru_ru.name=Russisch
+lang.ru_ukr.name=Ukrainisch
+#new-language - spa
+lang.spa_spa.name=Spanisch
+lang.spa_por.name=Portugiesisch
+#new-language - ita
+lang.ita_ita.name=Italienisch
+
+
+log.main.res_name_not_found=Ressourcenname nicht definiert
+log.main.suc_to_load_resource=Ressourcenpaket erfolgreich geladen: {NAME}
+log.main.no_superusers=<r>Derzeit sind keine Superbenutzer vorhanden. Bitte senden Sie {CS}<y>SU{AUTH_CODE}</y> per QQ, um sich als Superbenutzer zu registrieren.</r>
+log.main.suc_to_reg_su=Superbenutzer <y>{USER_ID}</y> erfolgreich registriert
+log.main.fail_to_reg_su=<r>Superbenutzer <y>{USER_ID}</y> konnte nicht registriert werden. Falscher Bestätigungscode</r>
+
+msg.main.suc_to_reg_su=Superbenutzer “{USER_ID}” erfolgreich registriert
+msg.main.fail_to_reg_su=Superbenutzer “{USER_ID}” konnte nicht registriert werden. Falscher Bestätigungscode
+
+text.weather.name=Liteyuki Wetter
+text.weather.description=Ein integriertes Wetter-Plugin von Liteyuki, sehr präzise.

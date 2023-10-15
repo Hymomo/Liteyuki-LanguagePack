@@ -1,0 +1,41 @@
+#===============================================
+#Liteyuki - 轻雪翻译组翻译/Liteyuki TanslateTeam
+#耗费时间: 16min /Spent Time: 16min
+#工具: Visual Studio Code+Edge /Tools: Visual Studio Code+Edge
+#本次语言: ru_ukr /Language: ru_ukr
+#Liteyuki - SnowyFirefly Studio
+#===============================================
+
+#def-language
+lang.en_US.name=Англійська (США)
+lang.en_GB.name=Англійська (Великобританія)
+lang.ja_JP.name=Японська (Японія)
+lang.zh_CN.name=Китайська (Спрощена)
+lang.zh_TW.name=Китайська (Традиційна)
+#new-language - fr
+lang.fr_FR.name=Французька (Франція)
+lang.fr_CA.name=Французька (Канада)
+#new-language - de
+lang.deu_De.name=Німецька (Німеччина)
+lang.deu_Ast.name=Німецька (Австрія)
+#new-language - ru/w
+lang.ru_ru.name=Російська
+lang.ru_ukr.name=Українська
+#new-language - spa
+lang.spa_spa.name=Іспанська
+lang.spa_por.name=Португальська
+#new-language - ita
+lang.ita_ita.name=Італійська
+
+
+log.main.res_name_not_found=Имя ресурса не определено
+log.main.suc_to_load_resource=Ресурсный пакет успешно загружен: {NAME}
+log.main.no_superusers=<r>В настоящее время нет суперпользователей. Пожалуйста, отправьте {CS}<y>SU{AUTH_CODE}</y> через QQ, чтобы зарегистрироваться как суперпользователь.</r>
+log.main.suc_to_reg_su=Суперпользователь <y>{USER_ID}</y> успешно зарегистрирован
+log.main.fail_to_reg_su=<r>Суперпользователь <y>{USER_ID}</y> не может быть зарегистрирован. Неверный код подтверждения</r>
+
+msg.main.suc_to_reg_su=Суперпользователь “{USER_ID}” успешно зарегистрирован
+msg.main.fail_to_reg_su=Суперпользователь “{USER_ID}” не может быть зарегистрирован. Неверный код подтверждения
+
+text.weather.name=Погода Liteyuki
+text.weather.description=Встроенный плагин погоды от Liteyuki, очень точный.

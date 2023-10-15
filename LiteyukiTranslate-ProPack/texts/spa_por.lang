@@ -1,0 +1,41 @@
+#===============================================
+#Liteyuki - 轻雪翻译组翻译/Liteyuki TanslateTeam
+#耗费时间: 3min /Spent Time: 3min
+#工具: Visual Studio Code+Edge /Tools: Visual Studio Code+Edge
+#本次语言: spa_por /Language: spa_por
+#Liteyuki - SnowyFirefly Studio
+#===============================================
+
+#def-language
+lang.en_US.name=Inglês (Estados Unidos)
+lang.en_GB.name=Português (Portugal)
+lang.ja_JP.name=Japonês (Japão)
+lang.zh_CN.name=Chinês simplificado
+lang.zh_TW.name=Chinês tradicional
+#new-language - fr
+lang.fr_FR.name=Francês (França)
+lang.fr_CA.name=Francês (Canadá)
+#new-language - de
+lang.deu_De.name=Alemão (Alemanha)
+lang.deu_Ast.name=Alemão (Áustria)
+#new-language - ru/w
+lang.ru_ru.name=Russo
+lang.ru_ukr.name=Ucraniano
+#new-language - spa
+lang.spa_spa.name=Espanhol
+lang.spa_por.name=Português
+#new-language - ita
+lang.ita_ita.name=Italiano
+
+
+log.main.res_name_not_found=O nome do recurso está indefinido
+log.main.suc_to_load_resource=Pacote de recursos carregado com êxito:{NAME}
+log.main.no_superusers=<r>Atualmente, não há superusuário, envie {CS}<y>SU{AUTH_CODE}</y> através do QQ para se registrar como superusuário</r>
+log.main.suc_to_reg_su=<g>Superutilizador <y>{USER_ID}</y> registado com sucesso</g>
+log.main.fail_to_reg_su=<r>O registro do superusuário <y>{USER_ID}</y> falhou com captcha errado</r>
+
+msg.main.suc_to_reg_su=O superutilizador "{USER_ID}" está registado com sucesso
+msg.main.fail_to_reg_su=O superusuário "{USER_ID}" não conseguiu se registrar com captcha errado
+
+text.weather.name=Tempo em Liteyuki
+text.weather.description=Liteyuki tem um plugin meteorológico embutido que é muito preciso
